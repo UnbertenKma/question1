@@ -1,0 +1,25 @@
+.footer {
+
+    // position: absolute;
+    margin-left: 150px;
+    
+    div {
+        width: 1768px;
+        margin-top: 856px;
+        border: 1px solid #DEDEDE;
+        height: 79px; 
+
+        h1 {
+            margin-left: 129px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            color: #3E3E3E;
+        }
+    }
+}
